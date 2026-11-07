@@ -1,0 +1,5 @@
+node_modules
+dist
+_pptx_extract
+.DS_Store
+.env
